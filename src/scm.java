@@ -6,5 +6,7 @@ public class scm {
 	
 if(a>b){
 	System.out.println("a is greatest");
+	System.out.println("b is lowest");
 }}
+	
 }
